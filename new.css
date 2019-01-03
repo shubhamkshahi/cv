@@ -1,0 +1,17 @@
+body{background: url(https://www.jer-cin.org.il/sites/default/files/styles/slide_show/public/monkey_king.jpg?itok=B99Ts38M);
+border-color: skyblue;
+border-width: 50px;
+border-style: groove;
+}
+#jocker{
+  color:rgb(66, 78, 244);
+}
+
+ul{
+  color: red;
+}
+h2{
+  color: blue;
+}
+th{color:green;}
+td{color:pink;}
